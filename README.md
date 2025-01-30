@@ -2,6 +2,10 @@
 ### Enhancing IT Support Efficiency through Data-Driven Insights!
 ##### Spreadsheet Project - By Chandan Kumar (25 Jan 2025)
 
+- ## Dashboard:
+  ![image](https://github.com/user-attachments/assets/63f1dc91-7abf-41be-9ce7-f814763719f0)
+
+
 - ## Agenda:
   ```
   > Problem Statement
@@ -54,7 +58,3 @@ The objective is to analyze the IT support ticket management system to understan
   - Enhancing mid-level severity and priority ticket handling will improve response times. 
   - Tailoring support strategies for different age groups can further boost customer satisfaction. 
   - Additionally, planning for continued ticket volume growth will ensure sustained service excellence.
-
-- ## Final Dashboard:
-  ![image](https://github.com/user-attachments/assets/c19a625c-cdcb-4279-b4ea-adbb4ff638da)
-
